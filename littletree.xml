@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tree 
+	xsi:noNamespaceSchemaLocation="tree.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<node id="id1" name="Life on Earth">
+
+	</node>
+
+</tree>
