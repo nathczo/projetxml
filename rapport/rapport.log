@@ -1,0 +1,222 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.2.17)  22 MAY 2023 00:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**rapport.tex
+(./rapport.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count185
+\lst@gtempboxa=\box47
+\lst@token=\toks18
+\lst@length=\count186
+\lst@currlwidth=\dimen141
+\lst@column=\count187
+\lst@pos=\count188
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count189
+\lst@lineno=\count190
+\lst@maxwidth=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count191
+\lst@skipnumbers=\count192
+\lst@framebox=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box49
+)
+(./rapport.aux)
+\openout1 = `rapport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen145
+\scratchbox=\box50
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen146
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count266
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./rapport.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `rapport.toc'.
+
+ [2]
+Overfull \hbox (2.82121pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/bx/n/14.4 Conversion en XML d'un ar-bre au for-mat CSV 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+1.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 21.
+ [3]
+Overfull \hbox (27.00378pt too wide) in paragraph at lines 54--55
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (11.9562pt too wide) in paragraph at lines 72--73
+[]\OT1/cmr/m/n/10 les at-tributs im-por-tants de l'^^Sel^^Sement "link" : sourc
+e[]node[]id et tar-get[]node[]id 
+ []
+
+
+Overfull \hbox (0.31117pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/bx/n/12 Deuxi^^Reme trans-for-ma-tion : des n^^[uds dans des n^^[uds
+ 
+ []
+
+[4]
+Overfull \hbox (16.80614pt too wide) in paragraph at lines 101--102
+\OT1/cmr/m/n/10 repr^^Sesente la feuille la plus ^^Ra gauche dans l'arbre.Nous 
+avons ap-pel^^Se cet num^^Serotation
+ []
+
+[5]
+Overfull \hbox (14.41725pt too wide) in paragraph at lines 119--120
+\OT1/cmr/m/n/10 On utilise les m^emes in-for-ma-tions que celles qu'on utilise 
+pour faire la repr^^Sesentation
+ []
+
+
+Overfull \hbox (8.13945pt too wide) in paragraph at lines 121--124
+[]\OT1/cmr/m/n/10 La pro-fondeur dans l'arbre repr^^Sesente le rayon dans la re
+pr^^Sesentation graphique
+ []
+
+
+Overfull \hbox (10.57869pt too wide) in paragraph at lines 132--133
+\OT1/cmr/bx/n/10 for-ma-tion[]initiale.csv \OT1/cmr/m/n/10 Cette trans-for-ma-t
+ion per-met d'obtenir des ^^Sel^^Sements
+ []
+
+[6] [7] (./rapport.aux) ) 
+Here is how much of TeX's memory you used:
+ 2882 strings out of 481209
+ 40627 string characters out of 5914747
+ 324371 words of memory out of 5000000
+ 19843 multiletter control sequences out of 15000+600000
+ 408366 words of font info for 43 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 68i,6n,74p,781b,1512s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ncozzo/.texlive2020/texmf-var/fonts/pk/ljfour/
+jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on rapport.pdf (7 pages, 125500 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

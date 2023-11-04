@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      id="id1"
+      name="Life on Earth"
+      xmin="0.75"
+      xmax="4.5"
+      x="2.625"
+      y="0">
+   <node id="id2"
+         name="Eubacteria"
+         xmin="0"
+         xmax="1.5"
+         x="0.75"
+         y="1">
+      <leaf id="id5" name="Eubacteria" x="0" y="2"/>
+      <node id="id6"
+            name="Aquificae"
+            xmin="1"
+            xmax="2"
+            x="1.5"
+            y="2">
+         <leaf id="id9" name="Aquificae" x="1" y="3"/>
+         <leaf id="id10" name="Aquificae" x="2" y="3"/>
+      </node>
+   </node>
+   <leaf id="id3" name="Aquificae" x="3" y="1"/>
+   <node id="id4"
+         name="Life on Earth"
+         xmin="4"
+         xmax="5"
+         x="4.5"
+         y="1">
+      <leaf id="id7" name="Life on Earth" x="4" y="2"/>
+      <leaf id="id8" name="Eubacteria" x="5" y="2"/>
+   </node>
+</node>
