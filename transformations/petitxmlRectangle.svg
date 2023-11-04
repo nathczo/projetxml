@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+     height="30"
+     width="30"
+     version="1.0">
+   <path xmlns=""
+         d="M 15.75 0 V 7.5 M 4.5 7.5 H 27"
+         stroke="black"
+         stroke-width="0.1"/>
+   <path xmlns=""
+         d="M 4.5 7.5 V 15 M 0 15 H 9"
+         stroke="black"
+         stroke-width="0.1"/>
+   <path xmlns="" d="M 0 15 V 22.5" stroke="black" stroke-width="0.1"/>
+   <path xmlns=""
+         d="M 0 22.5 V 30"
+         stroke="black"
+         stroke-width="0.1"
+         stroke-dasharray="0.1"/>
+   <path xmlns=""
+         d="M 9 15 V 22.5 M 6 22.5 H 12"
+         stroke="black"
+         stroke-width="0.1"/>
+   <path xmlns="" d="M 6 22.5 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 12 22.5 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 18 7.5 V 15" stroke="black" stroke-width="0.1"/>
+   <path xmlns=""
+         d="M 18 15 V 30"
+         stroke="black"
+         stroke-width="0.1"
+         stroke-dasharray="0.1"/>
+   <path xmlns=""
+         d="M 27 7.5 V 15 M 24 15 H 30"
+         stroke="black"
+         stroke-width="0.1"/>
+   <path xmlns="" d="M 24 15 V 22.5" stroke="black" stroke-width="0.1"/>
+   <path xmlns=""
+         d="M 24 22.5 V 30"
+         stroke="black"
+         stroke-width="0.1"
+         stroke-dasharray="0.1"/>
+   <path xmlns="" d="M 30 15 V 22.5" stroke="black" stroke-width="0.1"/>
+   <path xmlns=""
+         d="M 30 22.5 V 30"
+         stroke="black"
+         stroke-width="0.1"
+         stroke-dasharray="0.1"/>
+</svg>

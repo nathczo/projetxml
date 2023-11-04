@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      id="id1"
+      name="Life on Earth">
+   <node id="id2" name="Eubacteria"/>
+   <node id="id3" name="Aquificae"/>
+   <node id="id4" name="Life on Earth"/>
+   <node id="id5" name="Eubacteria"/>
+   <node id="id6" name="Aquificae"/>
+   <node id="id7" name="Life on Earth"/>
+</node>

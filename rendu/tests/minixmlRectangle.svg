@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+     height="30"
+     width="30"
+     version="1.0">
+   <path xmlns=""
+         d="M 15 0 V 15 M 0 15 H 30"
+         stroke="black"
+         stroke-width="0.1"/>
+   <path xmlns="" d="M 0 15 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 6 15 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 12 15 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 18 15 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 24 15 V 30" stroke="black" stroke-width="0.1"/>
+   <path xmlns="" d="M 30 15 V 30" stroke="black" stroke-width="0.1"/>
+</svg>
